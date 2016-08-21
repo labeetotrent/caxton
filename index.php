@@ -75,7 +75,7 @@
                                 <p>Location: 478 Caxton Street, Petrie Terrace, Queensland, Australia</p>
                                 <p>Contact #: 3367 0300</p>
                                 <p>Fax your order to us for pick-up or delivered to your door via 3367 0311 </p>
-                                <p>Free of charge in certain areas, minimum order of $25.00</p>
+                                <p>Free of charge in certain areas, minimum order of $30.00</p>
                             </div>
                         </div>
                     </article>
@@ -84,7 +84,7 @@
                         <div class="row">
                             <div class="col-md-8 col-sm-7">
                                 <h1 class="page-header">Meet The Chef</h1>
-                                <p> Chef and Owner, Mr Somchit Chinpala, has years of experience working as a Head Chef in 5-star hotels all around the world</p> <p>Including Jakarta, Istanbul, Malaysia and Hayman Island. Somchit is also featured in the Who's Who of International Chefs.</p> <p>Somchit and his dedicated team do their very best to serve you as a customer. If you have any suggestions, recommendations or complaints about our service, we woud love to hear from you.</p>
+                                <p> Chef and Owner, Mr Somchit Chinpala, has years of experience working as a Head Chef in 5-star hotels all around the world including Jakarta, Istanbul, Malaysia and Hayman Island. Somchit is also featured in the Who's Who of International Chefs.</p> <p>Somchit and his dedicated team do their very best to serve you as a customer. If you have any suggestions, recommendations or complaints about our service, we woud love to hear from you.</p>
                                 
                             </div>
 
@@ -282,7 +282,7 @@
             <!--footer-->
             <footer class="text-center" id="footer"> 
                 <div class="container">                       
-                    Copyright 2016 <strong>DevJC</strong>                       
+                    Copyright 2016 <strong>Caxton Thai</strong><br/>Website designed by <b>DevJC</b> and <b>TrentIT</b>                       
                 </div>
             </footer>
 

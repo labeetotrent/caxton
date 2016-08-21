@@ -83,16 +83,14 @@
                     <article id="chef">     
                         <div class="row">
                             <div class="col-md-8 col-sm-7">
-                                <h1 class="page-header">Meet Chef Enter Name Here</h1>
-                                <p>Chef Enter Name, owner of Caxton Thai aims to provide your table the best Thai Food you ever had on town. His love for Thai culture and serving his loyal customer is outstanding.</p>
-                                <p>What are you waiting for?</p>
-                                <p>VISIT US now!</p>
-                                <p></p>
+                                <h1 class="page-header">Meet The Chef</h1>
+                                <p> Chef and Owner, Mr Somchit Chinpala, has years of experience</p><p> working as a Head Chef in 5-star hotels all around the world</p> <p>Including Jakarta, Istanbul, Malaysia and Hayman Island. Somchit is also featured in the Who's Who of International Chefs.</p> <p>Somchit and his dedicated team do their very best to serve you as a customer. If you have any suggestions, recommendations or complaints about our service, we woud love to hear from you.</p>
+                                
                             </div>
 
                             <div class="col-md-4 col-sm-5">
                                 <div class="thumbnail portrait"> 
-                                    <img class="img_portrait" src="img/people/chef.png"alt="">
+                                    <img class="img_portrait" src="img/people/chef2.jpg"alt="">
                                 </div>
                             </div>
                         </div>
@@ -209,11 +207,11 @@
                             <div class="carousel slide" data-ride="carousel" id="quote-carousel">
                                 <!-- Bottom Carousel Indicators -->
                                 <ol class="carousel-indicators">
-                                    <li data-target="#quote-carousel" data-slide-to="0" class="active"><img class="img-responsive " src="https://s3.amazonaws.com/uifaces/faces/twitter/brad_frost/128.jpg" alt="">
+                                    <li data-target="#quote-carousel" data-slide-to="0" class="active"><img class="img-responsive " src="img/people/1.jpg" alt="">
                                     </li>
-                                    <li data-target="#quote-carousel" data-slide-to="1"><img class="img-responsive" src="https://s3.amazonaws.com/uifaces/faces/twitter/rssems/128.jpg" alt="">
+                                    <li data-target="#quote-carousel" data-slide-to="1"><img class="img-responsive" src="img/people/2.jpg" alt="">
                                     </li>
-                                    <li data-target="#quote-carousel" data-slide-to="2"><img class="img-responsive" src="https://s3.amazonaws.com/uifaces/faces/twitter/adellecharles/128.jpg" alt="">
+                                    <li data-target="#quote-carousel" data-slide-to="2"><img class="img-responsive" src="img/people/3.jpg" alt="">
                                     </li>
                                 </ol>
 
@@ -226,8 +224,8 @@
                                             <div class="row">
                                                 <div class="col-sm-8 col-sm-offset-2">
 
-                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. !</p>
-                                                    <small>Someone famous</small>
+                                                    <p>Huge meals for good prices - services is also very good. </p>
+                                               
                                                 </div>
                                             </div>
                                         </blockquote>
@@ -238,8 +236,7 @@
                                             <div class="row">
                                                 <div class="col-sm-8 col-sm-offset-2">
 
-                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
-                                                    <small>Someone famous</small>
+                                                    <p>Well priced, excellent food, fast service. I recommend the basil chicken and coconut rice!</p>
                                                 </div>
                                             </div>
                                         </blockquote>
@@ -250,8 +247,7 @@
                                             <div class="row">
                                                 <div class="col-sm-8 col-sm-offset-2">
 
-                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. .</p>
-                                                    <small>Someone famous</small>
+                                                    <p>Food is excellent. Highly recommended. Delivery is only $2. Well worth it ! Feed three people for under $40. .</p>
                                                 </div>
                                             </div>
                                         </blockquote>

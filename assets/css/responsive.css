@@ -1,0 +1,137 @@
+/*==================================================
+=            Bootstrap 3 Media Queries             =
+===================================================*/
+
+/*==========  Non-Mobile First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+    #navbar .navbar-brand {
+        font-size: 40px;
+        padding-left: 14px;
+        padding-top: 5px;
+    }
+
+    .navbar-toggle {       
+        padding: 0px 14px;
+        padding-top: 8px;
+    }
+
+
+
+    #navbar a {
+        color: #ffffff;
+        padding: 7px 0px;
+        font-size: 20px;
+    }
+
+    section{
+        padding: 20px 10px; 
+        min-height: 40vh;
+    }
+
+    .portrait {
+        margin-top: 30px;
+    }
+
+    .img_portrait {
+        height: 27vh !important;
+    }
+
+    .my-gallery figure {
+        width: 138px;
+    }
+
+    .my-gallery img{
+        height: 138px;
+    }
+
+    #quote-carousel .carousel-indicators .active {
+        width: 100px;
+        height: 100px;
+    }
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+
+}
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (max-width : 480px) {
+    body{
+        font-size: 13px;
+    }
+
+    #navbar .navbar-brand {
+        font-size: 30px;
+    }
+
+    #navbar a {
+        padding: 6px 0px;
+        padding-left: 15px;
+        font-size: 19px;
+    }
+
+    .navbar-toggle {
+        padding: 0px 9px;
+        padding-top: 6px;
+        margin-top: 6px;
+        margin-bottom: 0px;
+        height: 40px;
+    }
+
+    .img_landscape {
+        height: 29vh !important;
+    }
+
+    .page-header{
+        margin: 0px;
+        margin-bottom: 20px;
+        font-size: 20px;
+    }
+
+    p{
+        font-size: 13px;
+    }
+
+    #about{
+        padding-top: 75px;
+    }
+
+    .my-gallery figure {
+        width: 103.3px;
+    }
+
+    .my-gallery img {
+        height: 103.3px;
+    }
+
+    #quote-carousel .carousel-indicators{
+        display: none;
+    }
+
+    #quote-carousel {
+        padding: 0px;
+        margin: 0px;
+    }
+
+    #quote-carousel p{
+        font-size: 16px;
+    }
+
+    #contact {
+        background: #542331;
+        padding: 20px 0px;
+    }
+}
+
+/* Custom, iPhone Retina */ 
+@media only screen and (max-width : 320px) {
+
+}

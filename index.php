@@ -35,7 +35,7 @@
                             <p class="icon-bar"></p> 
                             <p class="icon-bar"></p> 
                         </button> 
-                        <a class="navbar-brand" href="index.php">Thai On Caxton</a> 
+                        <a class="navbar-brand" href="index.php">Caxton Thai</a> 
                     </div>  
 
                     <!--navbar links-->
@@ -106,7 +106,7 @@
 
                     <div class="my-gallery" itemscope itemtype="http://schema.org/ImageGallery">
 
-                        <?php for ($i = 1; $i <= 29; $i++) { ?>
+                        <?php for ($i = 1; $i <= 42; $i++) { ?>
                             <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
                                 <a href="img/food/<?=$i;?>.jpg" itemprop="contentUrl" data-size="1024x1024">
                                     <div class="thumbnail">

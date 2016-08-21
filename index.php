@@ -251,7 +251,6 @@
                         <div class="col-md-5">     
                             <p>Location: 47B Caxton Street, Petrie Terrace, Queensland, Australia</p>
                             <p>Contact #: 3367 0300</p>
-                            <p>Fax your order to us for pick-up or delivered to your door (3367 0311)</p>
                             <p>Free of charge in surrounding suburbs, minimum order of $30.00</p> 
 
                             <ul class="list-group">

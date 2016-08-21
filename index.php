@@ -106,33 +106,17 @@
 
                     <div class="my-gallery" itemscope itemtype="http://schema.org/ImageGallery">
 
-                        <?php for ($i = 0; $i <= 10; $i++) { ?>
+                        <?php for ($i = 1; $i <= 29; $i++) { ?>
                             <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                                <a href="http://morissetmenu.net.au/wp-content/uploads/2013/06/3924070247_5a779a478b_Thai-food.jpg" itemprop="contentUrl" data-size="1024x1024">
+                                <a href="img/food/<?=$i;?>.jpg" itemprop="contentUrl" data-size="1024x1024">
                                     <div class="thumbnail">
-                                        <img src="http://morissetmenu.net.au/wp-content/uploads/2013/06/3924070247_5a779a478b_Thai-food.jpg" itemprop="thumbnail" alt="Image description" />
+                                        <img src="img/food/<?=$i;?>.jpg" itemprop="thumbnail" alt="Image description" />
                                     </div>
                                 </a>
                                 <figcaption itemprop="caption description">Food Name: $25</figcaption>
                             </figure>
 
-                            <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                                <a href="http://popstyleme.com/wp-content/uploads/2015/10/Thai-Cuisine.jpg" itemprop="contentUrl" data-size="964x1024">
-                                    <div class="thumbnail">
-                                        <img src="http://popstyleme.com/wp-content/uploads/2015/10/Thai-Cuisine.jpg" itemprop="thumbnail" alt="Image description" />
-                                    </div>
-                                </a>
-                                <figcaption itemprop="caption description">Food Name: $60</figcaption>
-                            </figure>
-
-                            <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                                <a href="http://thaisquarerestaurant.com.au/images/restaurant/NSW/Warners-Bay/Thai-Square-Warners-Bay/thai-cashew-chicken-thai-square.jpg" itemprop="contentUrl" data-size="1024x683">
-                                    <div class="thumbnail">
-                                        <img src="http://thaisquarerestaurant.com.au/images/restaurant/NSW/Warners-Bay/Thai-Square-Warners-Bay/thai-cashew-chicken-thai-square.jpg" itemprop="thumbnail" alt="Image description" />
-                                    </div>
-                                </a>
-                                <figcaption itemprop="caption description">Food Name: $42</figcaption>
-                            </figure>                        
+                    
                         <?php } ?>
                     </div>                  
 
@@ -269,7 +253,7 @@
                             <p>Location: 478 Caxton Street, Petrie Terrace, Queensland, Australia</p>
                             <p>Contact #: 3367 0300</p>
                             <p>Fax your order to us for pick-up or delivered to your door (3367 0311)</p>
-                            <p>Free of charge in surrounding suburbs, minimum order of $25.00</p> 
+                            <p>Free of charge in surrounding suburbs, minimum order of $30.00</p> 
 
                             <ul class="list-group">
                                 <li class="list-group-item text-center">Operation Hours</li>

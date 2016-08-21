@@ -84,7 +84,7 @@
                         <div class="row">
                             <div class="col-md-8 col-sm-7">
                                 <h1 class="page-header">Meet The Chef</h1>
-                                <p> Chef and Owner, Mr Somchit Chinpala, has years of experience</p><p> working as a Head Chef in 5-star hotels all around the world</p> <p>Including Jakarta, Istanbul, Malaysia and Hayman Island. Somchit is also featured in the Who's Who of International Chefs.</p> <p>Somchit and his dedicated team do their very best to serve you as a customer. If you have any suggestions, recommendations or complaints about our service, we woud love to hear from you.</p>
+                                <p> Chef and Owner, Mr Somchit Chinpala, has years of experience working as a Head Chef in 5-star hotels all around the world</p> <p>Including Jakarta, Istanbul, Malaysia and Hayman Island. Somchit is also featured in the Who's Who of International Chefs.</p> <p>Somchit and his dedicated team do their very best to serve you as a customer. If you have any suggestions, recommendations or complaints about our service, we woud love to hear from you.</p>
                                 
                             </div>
 
@@ -113,7 +113,7 @@
                                         <img src="img/food/<?=$i;?>.jpg" itemprop="thumbnail" alt="Image description" />
                                     </div>
                                 </a>
-                                <figcaption itemprop="caption description">Food Name: $25</figcaption>
+                                <!--<figcaption itemprop="caption description">Food Name: $25</figcaption>-->
                             </figure>
 
                     

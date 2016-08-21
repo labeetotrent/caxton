@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />  
-        <title>Caxton Thai</title>
+        <title>Thai On Caxton</title>
         <!--fonts-->
         <link href='http://fonts.googleapis.com/css?family=Lobster+Two' rel='stylesheet' type='text/css'>
         <!--Full Slider-->
@@ -35,7 +35,7 @@
                             <p class="icon-bar"></p> 
                             <p class="icon-bar"></p> 
                         </button> 
-                        <a class="navbar-brand" href="index.php">Caxton Thai</a> 
+                        <a class="navbar-brand" href="index.php">Thai On Caxton</a> 
                     </div>  
 
                     <!--navbar links-->

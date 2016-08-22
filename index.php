@@ -101,7 +101,7 @@
             <section id="gallery">
                 <div class="container-fluid">
                     <h1 class="page-header text-center top-margin-none">Menu Gallery </h1>      
-                    <a href="img/menu1.jpg" target="_blank" class="btn btn-md btn-danger">View Menu and Price List</a>
+                    <a href="assets/menu.pdf" target="_blank" class="btn btn-md btn-danger">View Menu and Price List</a>
 
                     <div class="my-gallery" itemscope itemtype="http://schema.org/ImageGallery">
 

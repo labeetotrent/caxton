@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />  
-        <title>Thai On Caxton</title>
+        <title>Caxton Thai</title>
         <!--fonts-->
         <link href='http://fonts.googleapis.com/css?family=Lobster+Two' rel='stylesheet' type='text/css'>
         <!--Full Slider-->
@@ -35,7 +35,7 @@
                             <p class="icon-bar"></p> 
                             <p class="icon-bar"></p> 
                         </button> 
-                        <a class="navbar-brand" href="index.php">Thai On Caxton</a> 
+                        <a class="navbar-brand" href="index.php">Caxton Thai</a> 
                     </div>  
 
                     <!--navbar links-->
@@ -74,7 +74,9 @@
                                 </ul>
                                 <p>Location: 47B Caxton Street, Petrie Terrace, Queensland, Australia</p>
                                 <p>Contact #: 3367 0300</p>
-                                <p>Delivery free of charge in certain areas, minimum order of $30.00</p>
+                                <p>Delivery free of charge in surrounding suburbs, minimum order of $30.00</p>
+                                <p>We have gluten free and vegan options available, please let us know any specific dietary requirements</p>
+
                             </div>
                         </div>
                     </article>
@@ -230,7 +232,7 @@
                                             <div class="row">
                                                 <div class="col-sm-8 col-sm-offset-2">
 
-                                                    <p>Food is excellent. Highly recommended. Delivery is only $2. Well worth it ! Feed three people for under $40. .</p>
+                                                    <p>Food is excellent. Highly recommended. Well worth it ! Feed three people for under $40. .</p>
                                                 </div>
                                             </div>
                                         </blockquote>
@@ -251,7 +253,7 @@
                         <div class="col-md-5">     
                             <p>Location: 47B Caxton Street, Petrie Terrace, Queensland, Australia</p>
                             <p>Contact #: 3367 0300</p>
-                            <p>Free of charge in surrounding suburbs, minimum order of $30.00</p> 
+                            <p>Delivery is free of charge in surrounding suburbs, minimum order of $30.00</p> 
 
                             <ul class="list-group">
                                 <li class="list-group-item text-center">Operation Hours</li>

@@ -75,7 +75,7 @@
                                 <p>Location: 47B Caxton Street, Petrie Terrace, Queensland, Australia</p>
                                 <p>Contact #: 3367 0300</p>
                                 <p>Delivery free of charge in surrounding suburbs, minimum order of $30.00</p>
-                                <p>We have gluten free and vegan options available, please let us know any specific dietary requirements</p>
+                                <p>We have gluten free and vegetarian options available, please let us know any specific dietary requirements</p>
 
                             </div>
                         </div>

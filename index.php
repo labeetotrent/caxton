@@ -107,7 +107,7 @@
 
                     <div class="my-gallery" itemscope itemtype="http://schema.org/ImageGallery">
 
-                        <?php for ($i = 1; $i <= 42; $i++) { ?>
+                        <?php for ($i = 1; $i <= 46; $i++) { ?>
                             <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
                                 <a href="img/food/<?=$i;?>.jpg" itemprop="contentUrl" data-size="1024x1024">
                                     <div class="thumbnail">
